@@ -1,0 +1,486 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.11)  7 MAR 2023 17:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./SaiKrishnaResume.tex
+(SaiKrishnaResume.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/base\artic
+le.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/base\size1
+0.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabu
+larx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/tools\arra
+y.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box51
+\extrarowheight=\dimen140
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box52
+)
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count193
+\TX@ftn=\toks17
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/geometry\g
+eometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\k
+eyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/iftex\if
+vtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/iftex\if
+tex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks19
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/geometry\g
+eometry.cfg))
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/tools\mult
+icol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count197
+\mult@box=\box53
+\multicol@leftmargin=\dimen154
+\c@unbalance=\count198
+\c@collectmore=\count199
+\doublecol@number=\count266
+\multicoltolerance=\count267
+\multicolpretolerance=\count268
+\full@width=\dimen155
+\page@free=\dimen156
+\premulticols=\dimen157
+\postmulticols=\dimen158
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen159
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count269
+\c@columnbadness=\count270
+\c@finalcolumnbadness=\count271
+\last@try=\dimen160
+\multicolovershoot=\dimen161
+\multicolundershoot=\dimen162
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count272
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\h
+yphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\e
+numitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip53
+\enit@outerparindent=\dimen163
+\enit@toks=\toks20
+\enit@inbox=\box98
+\enit@count@id=\count273
+\enitdp@description=\count274
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xco
+lor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-c
+fg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-d
+ef\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen164
+\stockheight=\dimen165
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\m
+athcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\h
+yperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\
+ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcm
+ds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/infwarer
+r\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\
+kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/kvdefine
+keys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/pdfescap
+e\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hy
+color.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacr
+o\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\au
+xhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\n
+ameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/refcount\r
+efcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/gettitle
+string\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\
+kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count275
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\p
+d1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\
+intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds
+\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\p
+uenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count279
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/url\url.st
+y
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen167
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/bitset\b
+itset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/bigintca
+lc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/base\atbeg
+shi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\h
+pdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/base\atver
+yend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilec
+heck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/generic/uniqueco
+unter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip54
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\
+l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box99
+) (SaiKrishnaResume.aux)
+\openout1 = `SaiKrishnaResume.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.90755pt, 539.69278pt, 28.90755pt)
+* v-part:(T,H,B)=(28.90755pt, 787.23175pt, 28.90755pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=539.69278pt
+* \textheight=787.23175pt
+* \oddsidemargin=-43.36244pt
+* \evensidemargin=-43.36244pt
+* \topmargin=-80.36244pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=21.68121pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\DASARI SAI KRISHNA\AppData\Local\Programs\MiKTeX\tex/context/base/mki
+i\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen170
+\scratchbox=\box100
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen171
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks22
+)
+Package hyperref Info: Link coloring ON on input line 22.
+ (SaiKrishnaResume.out) (SaiKrishnaResume.out)
+\@outlinefile=\write3
+\openout3 = `SaiKrishnaResume.out'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[][][]\OT1/cmr/m/n/10 Password Pro-tected lock us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+
+ []
+
+[1
+
+{C:/Users/DASARI SAI KRISHNA/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+ [2] (SaiKrishnaResume.aux)
+Package rerunfilecheck Info: File `SaiKrishnaResume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 9360 strings out of 475385
+ 151195 string characters out of 2770735
+ 524726 words of memory out of 3000000
+ 30651 multiletter control sequences out of 15000+600000
+ 471113 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,10n,77p,244b,454s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\DASARI SAI KRISHNA\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1000.pk><C:/Users/DASARI SAI KRISHNA/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DASARI SAI KRISHNA/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DASA
+RI SAI KRISHNA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+10.pfb>
+Output written on SaiKrishnaResume.pdf (2 pages, 70307 bytes).
+PDF statistics:
+ 62 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
